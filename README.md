@@ -1,2 +1,3 @@
 # Othello--best--games
-Simulations of best othello games across the globe 
+
+Repository of best othello games and puzzles simulated using NTest 
